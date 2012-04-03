@@ -1,7 +1,7 @@
-[WP-Property](https://usabilitydynamics.com/products/wp-property/)
+[Real Estate and Property Management for WordPress](https://usabilitydynamics.com/products/wp-property/)
 =================
 
-Developed by the same people who brought you [WP-Invoice](http://wordpress.org/extend/plugins/wp-invoice/), comes WP-Property. As always, integration is seamless, the system is expandable and customizable, functionality is rich, and we are here to support it.
+WP-Property is the leading WordPress plugin for creating and managing highly customizable real estate, property management, and completely custom listing showcase websites. Packed full of features, it gives you possibilities that no other real estate system for WordPress does. Try it out, you will be impressed.
 
 Be sure to check out the  [WP-Property Forum](http://usabilitydynamics.com/products/wp-property/forum/) if you need help. 
 
