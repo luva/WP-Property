@@ -46,7 +46,7 @@ msgstr "Bagni"
 #: /home/www/andy/wp-content/plugins/wp-property/action_hooks.php:76
 #: /home/www/andy/wp-content/plugins/wp-property/action_hooks.php:79
 msgid "Deposit"
-msgstr "Garage"
+msgstr "Box Auto"
 
 #: /home/www/andy/wp-content/plugins/wp-property/action_hooks.php:77
 msgid "Area"
@@ -62,7 +62,7 @@ msgstr "Condizioni contrattuali"
 
 #: /home/www/andy/wp-content/plugins/wp-property/action_hooks.php:87
 msgid "Pet Policy"
-msgstr "Policy Animali"
+msgstr "Polizza Animali"
 
 #: /home/www/andy/wp-content/plugins/wp-property/action_hooks.php:88
 msgid "School"
@@ -90,20 +90,20 @@ msgstr "Apparirà nelle pagine di riepilogo e in testa ad ogni pagina di listing
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/property-pagination.php:13
 msgid "Loading"
-msgstr ""
+msgstr "Caricamento"
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/property-pagination.php:18
 msgid "Prev"
-msgstr ""
+msgstr "Prec"
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/property-pagination.php:31
 msgid "Next"
-msgstr ""
+msgstr "Succ"
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/property-pagination.php:38
 #, fuzzy
 msgid "Order By:"
-msgstr "Ordine"
+msgstr "Ordina per"
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/template-functions.php:245
 #: /home/www/andy/wp-content/plugins/wp-property/templates/property-featured-shortcode.php:15
@@ -190,16 +190,16 @@ msgstr ""
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/default_api.php:154
 msgid "Latitude"
-msgstr ""
+msgstr "Latitudine"
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/default_api.php:159
 msgid "Longitude"
-msgstr ""
+msgstr "Longitudine"
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/default_api.php:203
 #: /home/www/andy/wp-content/plugins/wp-property/templates/default_api.php:208
 msgid "Yes"
-msgstr "Si"
+msgstr "Sì"
 
 #: /home/www/andy/wp-content/plugins/wp-property/templates/default_api.php:276
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_functions.php:1464
@@ -220,7 +220,7 @@ msgstr "Elaborazione in corso..."
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_ud.php:450
 msgid "UD Log Page for"
-msgstr "UD Log Page per"
+msgstr "UD Log Pagina per"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_ud.php:451
 msgid "Clear Log"
@@ -369,7 +369,7 @@ msgstr "<p>Per maggiori informazioni puoi visitare il sito ufficiale del plugin 
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_core.php:571
 msgid "Menu Sort Order:"
-msgstr ""
+msgstr "Menu Ordina:"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_core.php:574
 msgid "Display property in featured listing."
@@ -531,21 +531,21 @@ msgstr "Cerca proprietà"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:96
 msgid "Show other properties (if any) with the same Parent"
-msgstr ""
+msgstr "Mostra altre proprietà (se presenti) con le stesse caratteristiche"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:180
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:384
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:601
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:828
 msgid "More"
-msgstr ""
+msgstr "Ancora"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:186
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:390
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:607
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:835
 msgid "View All"
-msgstr ""
+msgstr "Vedi tutti"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:228
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:432
@@ -601,22 +601,22 @@ msgstr "Formato indirizzo:"
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:706
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:928
 msgid "Show \"More\" link?"
-msgstr ""
+msgstr "Mostra \"Ancora\" link?"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:287
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:497
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:713
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:935
 msgid "Show \"View All\" link?"
-msgstr ""
+msgstr "Mostra \"Vedi Tutti\" link?"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:304
 msgid "Child Properties"
-msgstr "Subproprietà"
+msgstr "Sub proprietà"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:304
 msgid "Show child properties (if any) for currently displayed property"
-msgstr ""
+msgstr "Mostra sub proprietà (se presenti) con le correnti caratteristiche"
 
 #: /home/www/andy/wp-content/plugins/wp-property/core/class_widgets.php:514
 msgid "Featured Properties"
